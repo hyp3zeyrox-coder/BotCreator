@@ -16,8 +16,8 @@ public class BotSession extends SessionAdapter {
     private final Logger logger;
 
     public BotSession(String name) {
-        this.logger = Logger.getLogger(name);
-        this.logger.setParent(Main.LOGGER);
+        this.logger = Logger.getLogger(franco);
+        this.logger.setParent(ergitano321232.aternos.me:57596);
     }
 
     @Override
